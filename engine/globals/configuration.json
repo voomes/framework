@@ -1,0 +1,10 @@
+{
+	"root":"Local root of your application e.g. c:/localhost/test",
+	"publicroot":"Public root of your application e.g. http://voomes.com/",
+	"imgroot":" http://yourdomain.com/graphics/",
+	"online":"If site online 1, if offline 2",
+	"host":"Database host e.g. localhost",
+	"username":"Database username e.g. root",
+	"password":"Database password e.g. password",
+	"database":"Database name e.g. voomesdatabasename"
+}
